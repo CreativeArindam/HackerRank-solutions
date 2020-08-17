@@ -1,3 +1,3 @@
 # Sollutions
 
-> [C++](solution.cpp)
+> [C++](solution.cpp) > [JavaScript](solution.js) > [PHP](solution.php)
