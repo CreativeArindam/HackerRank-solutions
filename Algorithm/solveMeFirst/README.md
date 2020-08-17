@@ -1,3 +1,3 @@
 # Sollutions
 
-> [C++](solution.cpp)
+1. [C++](solution.cpp)
