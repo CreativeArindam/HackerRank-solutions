@@ -20,3 +20,4 @@ All the sollutions are correct here but you are welcome to improve the codes.
 |  8  |          [Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem)          |     [Solution](./Algorithm/miniMaxSum/)      | 10/10  |
 |  9  |             [Staircase](https://www.hackerrank.com/challenges/staircase/problem)             |      [Solution](./Algorithm/staircase/)      | 10/10  |
 | 10  |            [Plus Minus](https://www.hackerrank.com/challenges/plus-minus/problem)            |      [Solution](./Algorithm/plusMinus/)      | 10/10  |
+| 11  |   [Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference/problem)   | [Solution](./Algorithm/diagonalDifference/)  | 10/10  |
