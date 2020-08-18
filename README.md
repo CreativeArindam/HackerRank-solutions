@@ -4,8 +4,8 @@ All the sollutions are correct here but you are welcome to improve the codes.
 
 ## Subjects
 
-**[ALGORITHMS](#algorithms)**
-**[DATA STRUCTURE](#data-structure)**
+- **[ALGORITHMS](#algorithms)**
+- **[DATA STRUCTURE](#data-structure)**
 
 # ALGORITHMS
 
