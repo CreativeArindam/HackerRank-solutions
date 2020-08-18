@@ -17,5 +17,3 @@ function balancedSums(arr) {
   if (leftSum === rightSum) return "YES";
   return "NO";
 }
-
-// Contributed by Arindam Hazra

@@ -1,3 +1,4 @@
 # Sollutions
 
-1. [JavaScript](solution.js)
+1. [C++](solution.cpp)
+2. [JavaScript](solution.js)
