@@ -5,6 +5,7 @@ All the sollutions are correct here but you are welcome to improve the codes.
 ## Subjects
 
 **[ALGORITHMS](#algorithms)**
+**[Data Structure](#data-structure)**
 
 # ALGORITHMS
 
@@ -22,3 +23,9 @@ All the sollutions are correct here but you are welcome to improve the codes.
 | 10  |            [Plus Minus](https://www.hackerrank.com/challenges/plus-minus/problem)            |      [Solution](./Algorithm/plusMinus/)      | 10/10  |
 | 11  |   [Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference/problem)   | [Solution](./Algorithm/diagonalDifference/)  | 10/10  |
 | 12  |        [A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum/problem)        |     [Solution](./Algorithm/aVeryBigSum/)     | 10/10  |
+
+# Data Structure
+
+| No  |                                Problem                                 |               Solution                | Points |
+| :-: | :--------------------------------------------------------------------: | :-----------------------------------: | :----: |
+|  1  | [Arrays - DS](https://www.hackerrank.com/challenges/arrays-ds/problem) | [Solution](./DataStructure/ArraysDS/) | 10/10  |
