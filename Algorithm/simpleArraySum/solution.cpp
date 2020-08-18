@@ -5,3 +5,5 @@ int simpleArraySum(vector<int> ar) {
     }
     return sum;
 }
+
+// Contributed By Arindam Hazra

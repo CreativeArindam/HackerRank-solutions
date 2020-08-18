@@ -11,3 +11,5 @@ function timeConversion(s) {
   if (hr < 10) return "0" + hr + s.slice(2, 8);
   return hr + s.slice(2, 8);
 }
+
+// Contributed By Arindam Hazra

@@ -3,3 +3,5 @@ function simpleArraySum(ar) {
   ar.forEach((item) => (sum += item));
   return sum;
 }
+
+// Contributed By Arindam Hazra
