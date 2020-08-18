@@ -5,7 +5,7 @@ All the sollutions are correct here but you are welcome to improve the codes.
 ## Subjects
 
 **[ALGORITHMS](#algorithms)**
-**[Data Structure](#data-structure)**
+**[DATA STRUCTURE](#data-structure)**
 
 # ALGORITHMS
 
@@ -24,8 +24,9 @@ All the sollutions are correct here but you are welcome to improve the codes.
 | 11  |   [Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference/problem)   | [Solution](./Algorithm/diagonalDifference/)  | 10/10  |
 | 12  |        [A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum/problem)        |     [Solution](./Algorithm/aVeryBigSum/)     | 10/10  |
 
-# Data Structure
+# DATA STRUCTURE
 
-| No  |                                Problem                                 |               Solution                | Points |
-| :-: | :--------------------------------------------------------------------: | :-----------------------------------: | :----: |
-|  1  | [Arrays - DS](https://www.hackerrank.com/challenges/arrays-ds/problem) | [Solution](./DataStructure/ArraysDS/) | 10/10  |
+| No  |                                      Problem                                       |                 Solution                  |                  Points                  |
+| :-: | :--------------------------------------------------------------------------------: | :---------------------------------------: | :--------------------------------------: |
+|  1  |       [Arrays - DS](https://www.hackerrank.com/challenges/arrays-ds/problem)       |   [Solution](./DataStructure/arraysDS/)   |                  10/10                   |
+|  2  | [Left Rotation](https://www.hackerrank.com/challenges/array-left-rotation/problem) | [Solution](./DataStructure/leftRotation/) | <span style="color:#f23">17.78</span>/20 |
