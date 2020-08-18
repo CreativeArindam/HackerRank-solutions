@@ -18,3 +18,4 @@ All the sollutions are correct here but you are welcome to improve the codes.
 |  6  |       [Time Conversion](https://www.hackerrank.com/challenges/time-conversion/problem)       |   [Solution](./Algorithm/timeConversion/)    | 15/15  |
 |  7  | [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem) | [Solution](./Algorithm/birthdayCakeCandles/) | 10/10  |
 |  8  |          [Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem)          |     [Solution](./Algorithm/miniMaxSum/)      | 10/10  |
+|  9  |             [Staircase](https://www.hackerrank.com/challenges/staircase/problem)             |      [Solution](./Algorithm/staircase/)      | 10/10  |
