@@ -38,6 +38,7 @@ Explore the basic folder structure and README before your contribution.
 | 14  | [Breaking the Records](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem) | [Solution](./Algorithm/breakingTheRecords/)  | 10/10  |
 | 15  |             [Sock Merchant](https://www.hackerrank.com/challenges/sock-merchant/problem)              |    [Solution](./Algorithm/sockMerchant/)     | 10/10  |
 | 16  |              [Drawing Book](https://www.hackerrank.com/challenges/drawing-book/problem)               |     [Solution](./Algorithm/drawingBook/)     | 10/10  |
+| 17  |         [Birthday Chocolate](https://www.hackerrank.com/challenges/the-birthday-bar/problem)          |  [Solution](./Algorithm/birthdayChocolate/)  | 10/10  |
 
 # DATA STRUCTURE
 
