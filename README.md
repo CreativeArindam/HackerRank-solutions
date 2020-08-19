@@ -2,6 +2,17 @@
 
 All the sollutions are correct here but you are welcome to improve the codes.
 
+### Steps to contribute
+
+1. Create a row for the problem in README and link properly
+2. Create a problem folder in camelCase inside the respective subject folder.
+   Ex: If your problem name is 'My Problem' in Data Structure:
+   ** Go inside the DataStructure folder.
+   ** Create a folder inside DataStructure and name it as myProblem.
+3. Inside the myProblem folder create a README and solution.extension(cpp,js,php etc.) for different languages.
+
+Explore the basic folder structure and README before your contribution.
+
 ## Subjects
 
 - **[ALGORITHMS](#algorithms)**
