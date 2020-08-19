@@ -25,6 +25,7 @@ All the sollutions are correct here but you are welcome to improve the codes.
 | 12  |            [A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum/problem)             |     [Solution](./Algorithm/aVeryBigSum/)     | 10/10  |
 | 13  |          [Apple And Orange](https://www.hackerrank.com/challenges/apple-and-orange/problem)           |   [Solution](./Algorithm/appleAndOrange/)    | 10/10  |
 | 14  | [Breaking the Records](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem) | [Solution](./Algorithm/breakingTheRecords/)  | 10/10  |
+| 15  |             [Sock Merchant](https://www.hackerrank.com/challenges/sock-merchant/problem)              |    [Solution](./Algorithm/sockMerchant/)     | 10/10  |
 
 # DATA STRUCTURE
 
