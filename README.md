@@ -39,6 +39,7 @@ Explore the basic folder structure and README before your contribution.
 | 15  |             [Sock Merchant](https://www.hackerrank.com/challenges/sock-merchant/problem)              |    [Solution](./Algorithm/sockMerchant/)     | 10/10  |
 | 16  |              [Drawing Book](https://www.hackerrank.com/challenges/drawing-book/problem)               |     [Solution](./Algorithm/drawingBook/)     | 10/10  |
 | 17  |         [Birthday Chocolate](https://www.hackerrank.com/challenges/the-birthday-bar/problem)          |  [Solution](./Algorithm/birthdayChocolate/)  | 10/10  |
+| 18  |       [Divisible Sum Pairs](https://www.hackerrank.com/challenges/divisible-sum-pairs/problem)        |  [Solution](./Algorithm/divisibleSumPairs/)  | 10/10  |
 
 # DATA STRUCTURE
 
